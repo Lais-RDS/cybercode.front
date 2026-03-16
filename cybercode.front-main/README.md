@@ -21,3 +21,7 @@ Atualmente, o curso possui um projeto principal:
 - **Frontend**: HTML, TailwindCSS, JavaScript (React)
 - **Design**: Interface dark futurista (vermelho e preto)
 - **Hospedagem**: [Coloque aqui se já estiver definido, ex: Vercel, Netlify...]
+
+
+## Vercel link
+    https://cybercode-sable.vercel.app/curso
